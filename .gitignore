@@ -3,3 +3,7 @@
 *.out
 *.o
 output
+tests
+*test*
+*/input.txt
+*/sample.txt
